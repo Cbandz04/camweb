@@ -1,0 +1,28 @@
+body{
+    background-color: blueviolet;
+    color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+h5{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+a{
+    color: bisque;
+    text-align: center;
+}
+a:visited{
+    color: brown;
+    text-align: center;
+}
+img{
+    border: 2px solid blue;
+    padding: 3px;
+    margin: 5px;
+display: block;
+margin: auto;
+}
